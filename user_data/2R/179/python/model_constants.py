@@ -31,6 +31,8 @@ EXPERIMENT_4_B: str = "experiment_4/design_B.csv"
 
 EXPERIMENT_5: str = "experiment_5/design.csv"
 
+EXPERIMENT_6: str = "experiment_6/design.csv"
+
 # Midterm essay experiments
 
 EXPERIMENT_FISCAL_USA_1: str = "experiment_Fiscal_USA_1/design.csv"
