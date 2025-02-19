@@ -2,8 +2,8 @@
 import os
 import pickle
 import shutil
-from parameters_2R_178 import ModelParameters  # モデルのパラメータ
-from model_constants_2R_178 import Runner  # モデルの計算を行うRunnerクラス
+from parameters_2R_179 import ModelParameters  # モデルのパラメータ
+from model_constants_2R_179 import Runner  # モデルの計算を行うRunnerクラス
 
 # --- 1. ベースラインの読み込み ---
 baseline_results_dir = os.path.join('user_data', 'results', 'run_baseline')
